@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: blueviolet;
+    font-family: 'Oswald', sans-serif;
+   
+}
+
+.menu {
+   background-color: white;
+   text-transform: uppercase;
+}
+
+.menu_navegação {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
